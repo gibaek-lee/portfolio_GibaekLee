@@ -10,6 +10,9 @@ Portfolio for a job as a front-end web developer
 ### Goal
 - Get maximum freedom, Destory customs, Continuous learning
 
+### Knowledge Base
+- Lit, Physics, Mathematics, Programming, Public Education
+
 ### Interest
 - Web development(Full stack), Data engineering, Data analysis, Machine learning, 3D rendering, Physics engine
 
