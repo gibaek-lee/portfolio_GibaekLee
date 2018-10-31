@@ -25,20 +25,32 @@ Portfolio for a job as a front-end web developer
 - C, C++, Python, Javascript
 
 ### Data
-- <b>Visualization</b>: Python(Matplotlib)
-- <b>Analysis</b>: Map Reduce, Python(Parallel Python), Linux(Bash sehll script)
+- <b>Visualization</b>
+: Python(Matplotlib)
+
+- <b>Analysis</b>
+: Map Reduce, Python(Parallel Python), Linux(Bash sehll script)
 
 ### Web
-- <b>Publishing(Responsive web Front-end)</b>: HTML, CSS(Media queries, Flex box model), DOM(Javascript, jQuery)
-- <b>Front-end Programming(User Interface)</b>: React, Redux, Ajax(Axios, jQuery, Javascript)
+- <b>Publishing(Responsive web Front-end)</b>
+: HTML, CSS(Media queries, Flex box model), DOM(Javascript, jQuery)
+
+- <b>Front-end Programming(User Interface)</b>
+: React, Redux, Ajax(Axios, jQuery, Javascript)
 
 ### Test
-- <b>Automation</b>: Jest, Mocha and Chai
+- <b>Automation</b>
+: Jest, Mocha and Chai
 
 ### Etc
-- <b>Deploy</b>: AWS(EC2, S3), ssh, Ubuntu Linux, pm2, Nginx
-- <b>Project Management</b>: git, github, Trello, Slack, Evernote
-- <b>Writing</b>: brunch
+- <b>Deploy</b>
+: AWS(EC2, S3), ssh, Ubuntu Linux, pm2, Nginx
+
+- <b>Project Management</b>
+: git, github, Trello, Slack, Evernote
+
+- <b>Writing</b>
+: brunch
 
 
 ## Work
