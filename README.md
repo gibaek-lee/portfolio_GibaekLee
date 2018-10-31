@@ -78,5 +78,5 @@ Portfolio for a job as a front-end web developer
 
 
 ## Contact
-- [LinkedIn](www.linkedin.com/in/gibaeklee)
+- [LinkedIn](https://www.linkedin.com/in/gibaeklee/)
 - [Github](https://github.com/ginNyang2)
