@@ -60,6 +60,10 @@ Portfolio for a job as a front-end web developer
 - React, Axios
 : [Post pages](https://ginnyang2.github.io/react-ajax-tutorial/)
 
+### Server
+- Node, Express, sse
+: [Server Sent Event](https://ginnyang2.github.io/ServerSentEventAnimation/)
+
 ### Project Management
 - git and github
 : [LinkedIn Article](https://www.linkedin.com/pulse/how-manage-your-team-project-versiongit-gi-baek-lee/)
