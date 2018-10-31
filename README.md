@@ -90,5 +90,6 @@ Portfolio for a job as a front-end web developer
 
 
 ## Contact
+- bbsnake10@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/gibaeklee/)
 - [Github](https://github.com/ginNyang2)
