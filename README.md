@@ -4,6 +4,8 @@ Portfolio for a job as a front-end web developer
 
 ## Gi-baek Lee
 
+<img width="30%" src="./Gi-baek Lee.JPG">
+
 ### Motto
 - "Invariability is death."
 
