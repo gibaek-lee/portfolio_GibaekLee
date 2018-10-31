@@ -52,16 +52,16 @@ Portfolio for a job as a front-end web developer
 
 ### React
 - React, Redux
-: [cicle counters](https://github.com/ginNyang2/reactWithRedux_counterExample)
+: [cicle counters](https://ginnyang2.github.io/reactWithRedux_counterExample/)
 
 - React, Axios
-: [Post pages](https://github.com/ginNyang2/react-ajax-tutorial)
+: [Post pages](https://ginnyang2.github.io/react-ajax-tutorial/)
 
 ### Project Management
 - git and github
 : [LinkedIn Article](https://www.linkedin.com/pulse/how-manage-your-team-project-versiongit-gi-baek-lee/)
 
 ### Deploy
-- [AWS and Virtual Machine](https://github.com/ginNyang2/deployUsingGithubAndAws)
+- [AWS and Virtual Machine](https://ginnyang2.github.io/deployUsingGithubAndAws/)
 
 
