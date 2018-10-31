@@ -61,8 +61,11 @@ Portfolio for a job as a front-end web developer
 : [Post pages](https://ginnyang2.github.io/react-ajax-tutorial/)
 
 ### Server
-- Node, Express, sse
+- Node, Express, sse, Javascript, Anmimation
 : [Server Sent Event](https://ginnyang2.github.io/ServerSentEventAnimation/)
+
+- Node, Express, Html, Javascript, DOM)
+: [Custom Video Player - Streaming Server](https://ginnyang2.github.io/javascript30-customVideoPlayer/)
 
 ### Project Management
 - git and github
