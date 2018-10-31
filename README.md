@@ -68,3 +68,6 @@ Portfolio for a job as a front-end web developer
 - [AWS and Virtual Machine](https://ginnyang2.github.io/deployUsingGithubAndAws/)
 
 
+## Contact
+- [LinkedIn](www.linkedin.com/in/gibaeklee)
+- [Github](https://github.com/ginNyang2)
