@@ -69,7 +69,7 @@ Portfolio for a job as a front-end web developer
 
 ### React
 - React, Redux
-: [cicle counters](https://ginnyang2.github.io/reactWithRedux_counterExample/)
+: [cicle counters](https://ginnyang2.github.io/reactWithRedux_counterExample/), [readme](https://github.com/ginNyang2/reactWithRedux_counterExample)
 
 - React, Axios
 : [Post pages](https://ginnyang2.github.io/react-ajax-tutorial/), [readme](https://github.com/ginNyang2/react-ajax-tutorial)
