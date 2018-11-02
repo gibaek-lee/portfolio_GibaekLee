@@ -82,8 +82,11 @@ Portfolio for a job as a front-end web developer
 : [Server Sent Event](https://github.com/ginNyang2/ServerSentEventAnimation)
 
 ### Project Management
+- [Sequence of work and tools remote team, aka Nomad, needs](https://ginnyang2.github.io/sequenceOfTheWorkAndNomad/)
+
 - git and github
 : [LinkedIn Article](https://www.linkedin.com/pulse/how-manage-your-team-project-versiongit-gi-baek-lee/)
+
 
 ### Deploy
 - [AWS and Virtual Machine](https://ginnyang2.github.io/deployUsingGithubAndAws/)
