@@ -56,9 +56,8 @@ Portfolio for a job as a front-end web developer
 ## Work
 
 ### Vanilla Javascript
-- Javascript, DOM, <b>Animation</b>, CSS, Flexbox<br>
-1.[Flex panels image gallery](https://ginnyang2.github.io/javascript30-FlexPanelsImgGallery/), [readme](https://github.com/ginNyang2/javascript30-FlexPanelsImgGallery)<br>
-2.[Drum kit](https://ginnyang2.github.io/javascript30-drumKit/), [readme](https://github.com/ginNyang2/javascript30-drumKit)
+- Javascript, DOM, <b>Animation</b>, CSS, Flexbox
+: [Flex panels image gallery](https://ginnyang2.github.io/javascript30-FlexPanelsImgGallery/)([readme](https://github.com/ginNyang2/javascript30-FlexPanelsImgGallery)), [Drum kit](https://ginnyang2.github.io/javascript30-drumKit/)([readme](https://github.com/ginNyang2/javascript30-drumKit))
 
 - Javascript, DOM, <b>Ajax</b>, JSON, CSS, Flexbox
 : [Ajax type ahead](https://ginnyang2.github.io/javascript30-ajaxTypeAhead/), [readme](https://github.com/ginNyang2/javascript30-ajaxTypeAhead)
