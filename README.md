@@ -56,12 +56,12 @@ Portfolio for a job as a front-end web developer
 ## Work
 
 ### Vanilla Javascript
-- Javascript, DOM, <b>Animation</b>, CSS, Flexbox
-: [Flex panels image gallery](https://ginnyang2.github.io/javascript30-FlexPanelsImgGallery/)
-, [Drum kit](https://ginnyang2.github.io/javascript30-drumKit/)
+- Javascript, DOM, <b>Animation</b>, CSS, Flexbox<br>
+1.[Flex panels image gallery](https://ginnyang2.github.io/javascript30-FlexPanelsImgGallery/), [readme](https://github.com/ginNyang2/javascript30-FlexPanelsImgGallery)<br>
+2.[Drum kit](https://ginnyang2.github.io/javascript30-drumKit/), [readme](https://github.com/ginNyang2/javascript30-drumKit)
 
 - Javascript, DOM, <b>Ajax</b>, JSON, CSS, Flexbox
-: [Ajax type ahead](https://ginnyang2.github.io/javascript30-ajaxTypeAhead/)
+: [Ajax type ahead](https://ginnyang2.github.io/javascript30-ajaxTypeAhead/), [readme](https://github.com/ginNyang2/javascript30-ajaxTypeAhead)
  
 ### Publishing
 - Html, CSS, Box model, <b>Media queries</b>, Javascript, DOM)
@@ -82,10 +82,9 @@ Portfolio for a job as a front-end web developer
 : [Server Sent Event](https://github.com/ginNyang2/ServerSentEventAnimation)
 
 ### Project Management
-- [Sequence of work and tools remote team, aka Nomad, needs](https://ginnyang2.github.io/sequenceOfTheWorkAndNomad/)
+- [Sequence of work and tools for full remote team(a.k.a. Nomad) needs](https://ginnyang2.github.io/sequenceOfTheWorkAndNomad/)
 
-- git and github
-: [LinkedIn Article](https://www.linkedin.com/pulse/how-manage-your-team-project-versiongit-gi-baek-lee/)
+- LinkedIn Article: [git and github basic for sole/team project](https://www.linkedin.com/pulse/how-manage-your-team-project-versiongit-gi-baek-lee/)
 
 
 ### Deploy
